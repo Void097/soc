@@ -15,8 +15,8 @@
  |Week 4 | Principle component Analysis|
  
  ### Submissions
- 1.**Introduction** refer [inttroduction]
- [https://github.com/Void097/soc/blob/main/Introduction]
+ 1.**Introduction** refer [introduction]
+ [https://github.com/Void097/soc/tree/main/introduction]
 
  2. **Assignment 1** : Refer [Assignment -1 ]
 [https://github.com/Void097/soc/tree/main/Assignment%201]
