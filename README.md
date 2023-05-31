@@ -13,4 +13,8 @@
  |Week 2 | concept of convulation, Mask , Blurring and basics coding for finding pixel values,etc|
  
  ### Submissions
- 1. **Assignment 1 ** : Refer [Assignment -1 ]
+ 1.** Introduction ** refer [inttroduction]
+ [[Introduction.zip](https://github.com/Void097/soc/files/11609697/Introduction.zip)
+
+ 2. **Assignment 1 ** : Refer [Assignment -1 ]
+[Assignment1.zip](https://github.com/Void097/soc/files/11609676/Assignment1.zip)
