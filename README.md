@@ -1,9 +1,9 @@
 # Dive into digital image processing
 ### Mentor
-| Name |
-| ----------- |
+| Name | 
+| ----------- | 
 | Vipul Patil  | 
-|Hari Prakash Reddy |
+|Hari Prakash Reddy | 
 ### Resources used 
 [Resoursces](https://docs.google.com/document/d/13G7C5Ij-ydmgsUZ4SndDVvtHXZmr-tc5dcs3NWqZ1qQ/edit?usp=sharing)
  ### Contents
