@@ -16,7 +16,7 @@
  
  ### Submissions
  1.**Introduction** refer [inttroduction]
- [[Introduction.zip](https://github.com/Void097/soc/files/11609697/Introduction.zip)
+ [https://github.com/Void097/soc/blob/main/Introduction]
 
  2. **Assignment 1** : Refer [Assignment -1 ]
 [https://github.com/Void097/soc/tree/main/Assignment%201]
