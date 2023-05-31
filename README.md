@@ -19,4 +19,4 @@
  [[Introduction.zip](https://github.com/Void097/soc/files/11609697/Introduction.zip)
 
  2. **Assignment 1** : Refer [Assignment -1 ]
-[Assignment1.zip](https://github.com/Void097/soc/files/11609676/Assignment1.zip)
+[https://github.com/Void097/soc/tree/main/Assignment%201]
