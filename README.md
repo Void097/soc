@@ -25,4 +25,4 @@
  (https://github.com/Void097/soc/tree/main/Assignment%201)
 
   3. **Assignment 2** : Refer [Assignment -2]
-  ()   
+  (https://github.com/Void097/soc/tree/main/Assignment%202)   
