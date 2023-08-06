@@ -27,4 +27,6 @@
   3. **Assignment 2** : Refer [Assignment -2]
   (https://github.com/Void097/soc/tree/main/Assignment%202)
   4. **Assignment 3** : Refer [Assignment -3]
-  (  
+  ( https://github.com/Void097/soc/tree/main/Assignment3 )
+  5. **Final Report** : Refer [Final Report]
+   (   
