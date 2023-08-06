@@ -16,6 +16,8 @@
  |Week 5| Dead week |
  |Week 6-7| Assignment 2 |
  |Week 8-9| Edge detection , canny edge detection |
+ |Week 10| Assignment 3 |
+ |Week 11| Future in digital image processing and final review assignment|
  
  ### Submissions
  1.**Introduction** refer [introduction]
